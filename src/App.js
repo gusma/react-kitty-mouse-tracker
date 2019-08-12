@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import cat from './cat.jpg';
+import cat from './cat.png';
 
 class App extends React.Component {
   constructor(props) {
